@@ -1,0 +1,6 @@
+def salario(salario, comissão, inss):
+    s1 = salario + (salario*comissão):
+    s2 = (salario*inss)
+    total = s1 - s2
+    return round (total,2)  
+
